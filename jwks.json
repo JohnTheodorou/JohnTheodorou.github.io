@@ -4,6 +4,7 @@
       "e": "AQAB",
       "n": "ueE28Lwln71CwkPWxf0iflznuvoeJH9PnOg_LT2TO6s5lunFiC7nH_qkVwDyxtd5PApwYcDrf4u5kIYo_u7dp5oOUi8nBBJMTCuZonKoKc786Pqs_XHcee05xYVlq3HOuNCUia65WwWI3N63XIl03TOWPlQtanZS3OdyqGXGoRwxXEIyMPnAISdPw610txGit1suRGCKT9CF3_oMEoOVOtXI_y1silZYalNUpa9nBtvS7N2hANce41WOMwAPhyC5PeG_je6Uc8ogoHZGUoq62YyEW4wwikdJ0lVMyWgVMiQHuXtHv1r7_cX5piYSUzJVSoN2-Zzp_4KlrGWxz7zWZQ",
       "kid": "007",
+      "alg": "PS256",
       "kty": "RSA",
       "use": "sig",
       "x5c": [
